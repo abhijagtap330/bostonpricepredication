@@ -1,4 +1,4 @@
-# boston hosu price predication
+# boston house price predication
 
 ### Software and Tools Reqirements
 
